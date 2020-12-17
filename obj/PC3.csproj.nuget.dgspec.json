@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jfchi\\Documents\\PC3\\PC3.csproj": {}
+    "C:\\Users\\jfchi\\Documents\\PC3\\PC3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jfchi\\Documents\\PC3\\PC3.csproj": {
+    "C:\\Users\\jfchi\\Documents\\PC3\\PC3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jfchi\\Documents\\PC3\\PC3.csproj",
+        "projectUniqueName": "C:\\Users\\jfchi\\Documents\\PC3\\PC3.csproj",
         "projectName": "PC3",
-        "projectPath": "c:\\Users\\jfchi\\Documents\\PC3\\PC3.csproj",
+        "projectPath": "C:\\Users\\jfchi\\Documents\\PC3\\PC3.csproj",
         "packagesPath": "C:\\Users\\jfchi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jfchi\\Documents\\PC3\\obj\\",
+        "outputPath": "C:\\Users\\jfchi\\Documents\\PC3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jfchi\\AppData\\Roaming\\NuGet\\NuGet.Config"
