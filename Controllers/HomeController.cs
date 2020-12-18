@@ -5,9 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using PC3.Data;
 using PC3.Models;
 
-namespace PC3.Controllers
+namespace Practica3.Controllers
 {
     public class HomeController : Controller
     {

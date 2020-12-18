@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Practica3.Models;
+using PC3.Models;
 
-namespace Practica3.Data
+namespace PC3.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {/*

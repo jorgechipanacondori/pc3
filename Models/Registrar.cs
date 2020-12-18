@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Practica3.Models
+namespace PC3.Models
 {
     //[Table("Tb_Registrar")]    
     public class Registrar
@@ -15,6 +15,8 @@ namespace Practica3.Models
         [Display(Name="Nombre de Producto: ")]
         [Column("Nombre")]
         public string Nombre { get; set; }
+        
+       
         public string url { get; set; }
 
         [Required(ErrorMessage = "Por favor ingrese una Descripcion")]   
